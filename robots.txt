@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umkfih.github.io/edF/sitemap.edF.gz
